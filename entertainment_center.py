@@ -33,4 +33,5 @@ fantastic_beasts_awtft = media.Movie(
 movie_shelf.open_movies_page([
     the_imitation_game,
     doctor_strange,
+    fantastic_beasts_awtft,
 ])
