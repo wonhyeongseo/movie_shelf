@@ -1,3 +1,14 @@
+##########################################
+# Project 0: Movie Website
+# Date Started: 10/01/2017
+# Date Completed: 10/02/2017
+# Submitted by: Wonhyeong Seo
+##########################################
+
+######################################## entertainment file ####################################################
+# Description: This file stores movie contents by making instances of the class Movie to allow for these
+#              to be used in the movie_shelf.py file. The contents are obtained via Google searches.
+########################################################################################################
 '''Where movies are stored and sent to movie_shelf.py for the creation of the webpage.'''
 import media
 import movie_shelf
