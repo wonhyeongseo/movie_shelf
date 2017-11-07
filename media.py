@@ -1,3 +1,14 @@
+##########################################
+# Project 0: Movie Website
+# Date Started: 10/01/2017
+# Date Completed: 10/02/2017
+# Submitted by: Wonhyeong Seo
+##########################################
+
+######################################## Media File ####################################################
+# Description: This file creates the class Movie to allow for instances of this class to be used in the
+#              entertainment.py file. This definition of the class Movie was obtained through the course
+########################################################################################################
 """A constructor module for various media"""
 import webbrowser
 
