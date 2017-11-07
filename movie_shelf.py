@@ -1,3 +1,14 @@
+##########################################
+# Project 3: Movie Website
+# Date Started: 10/01/2017
+# Date Completed: 10/02/2017
+# Submitted by: Wonhyeong Seo
+##########################################
+
+######################################## Movie_shelf File ####################################################
+# Description: This file creates creates an html file containing all of the desired movies from the
+#              entertainment.py file.
+########################################################################################################
 '''A module that creates an html file containing all of the desired movies.'''
 import webbrowser
 import os
