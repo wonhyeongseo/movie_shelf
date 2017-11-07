@@ -2,7 +2,7 @@
 Source code for a Movie Trailer website, named "Movie Shelf".
 It's kind of like a bookshelf, but for movies. :) [yay!]
 
-This code may be downloaded from:
+This code may be downloaded from: https://github.com/wonhyeongseo/movie_shelf
 
 How to use: 
 1. Write your favorite movies on entertainment_center.py like the given format (until there is additional updates that will allow the "add/edit/delete" buttons on the movie_shelf.html file to function).
